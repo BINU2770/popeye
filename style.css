@@ -1,0 +1,10 @@
+/* */
+h1{
+    color: aqua;
+}
+div{
+    border:4px;
+    width:600px;
+    position: relative;
+    padding: left 300px;
+}
